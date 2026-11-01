@@ -2,12 +2,36 @@
 
 <p align="center"><img src="src/assets/scathing-charter-logo.jpg" alt="The Scathing Charter" width="640"></p>
 
-*A trading game set in the world of The Elder Scrolls, at the dawn of the Fourth Era.*
+*A Dope Wars–style trading game in Morrowind's Red Year. You know the mountain will fall. Your trader doesn't.*
 
 It is **1 Morning Star 4E 4** in Balmora. You owe the Camonna Tong 4,000 septims, you own one pack guar,
-and you have three years. Buy low, sell high, pay off the debt and buy your way into the **Scathing Charter**,
-through the last calm year, the **Red Year**, and the war that follows. Every place, good and event comes
-from Elder Scrolls lore, with sources you can click.
+and in a little over a year Baar Dau falls on Vivec and Red Mountain buries half the island. Buy low, sell
+high, pay the Tong before the collectors come, and decide where your money sleeps when the sky goes red.
+Live through it, and the **Scathing Charter**, the right to rebuild what's left, is for sale.
+
+- **History keeps its own calendar.** 25 world events happen on their real dates, from the Red Year to the
+  Argonian invasion, and 93 rumours try to warn you first. The markets, roads and towns change with them.
+- **Everything comes from the lore.** 20 places, 16 goods and 236 codex entries, each with sources you can
+  click. Anything invented says so.
+- **A tower duel in court.** When the guards fine you or seize your goods, contest it before the magistrate in
+  a card game of walls and towers.
+- **The ending remembers.** It tells you how many times you were warned, and what you left in the vaults anyway.
+
+**[▶ Play it in your browser](https://ullafreehum.github.io/scathing-charter/)**: free, nothing to install.
+Windows and Android downloads are [below](#-play).
+
+<p align="center"><img src="docs/screenshots/red-year.jpg" alt="The Red Year card: Baar Dau falls, Red Mountain erupts" width="100%"></p>
+
+<table>
+<tr>
+<td width="50%"><img src="docs/screenshots/market.jpg" alt="The market in Balmora"><br><sub>A market day in Balmora. Green ▼ is cheap here.</sub></td>
+<td width="50%"><img src="docs/screenshots/map-after-eruption.jpg" alt="The map after the eruption"><br><sub>After the eruption the roads close and trade moves to the mainland.</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="docs/screenshots/duel-phone.jpg" alt="The tower duel on a phone"><br><sub>The tower duel on an Android phone.</sub></td>
+<td width="50%"><img src="docs/screenshots/ending.jpg" alt="The end screen"><br><sub>The end screen: your fortune, and the history you lived through.</sub></td>
+</tr>
+</table>
 
 ## ▶ Play
 
